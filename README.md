@@ -18,6 +18,7 @@ Furthermore, all important folders contain a description file which gives more d
 * `./experiments`
 
 	Contains all csv data files used for analysis. These files constitute the aggregated raw data.
+	Some files had to be compressed. Use `$ tar -xf <archive>.tar.xz` to decompress.
 
 * `./scripts.tar.xz`
 
