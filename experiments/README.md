@@ -26,6 +26,12 @@ Each folder corresponds to a different experimental question under consideration
 
 Each respective folder might contain `n*` folders indicating the number of variables of the instances.
 
+## Important note
+
+Due to the double-blind review process we avoided using `ssh` for file uploads as this can reveal our identity.
+We used the web upload instead. Due to the file limit of the web upload, several files had to be compressed.
+If you want to inspect the respective files download/clone this repository and uncompress via `$ tar -xf <archive>.tar.xz`.
+
 ## How To Read the .csv-files
 
 For sake of illustration we consider the file: `./experiments/csvs/gen_n50_m213_k3SAT_seed107420370.csv`.
