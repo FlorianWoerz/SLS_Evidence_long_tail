@@ -14,4 +14,6 @@ A detailed description of the source code and analytical steps taken is containe
 * The files `empirical.py`, `plots.py`, and `test_distribution.py` were used to outsource functionality from the notebooks for a cleaner presentation.
 These files are used for the statistical tests and plotting of the various diagram types.
 
-* The files `parse_*.ipynb` were used to aggregate the raw data of one experimental trial in one csv files.
+## The Jupyter Notebooks do not run on my machine: Some csv-files are not found
+
+Please extract all `tar.xz` archives in the subfolders of `./experiments`.
