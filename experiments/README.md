@@ -1,27 +1,27 @@
-# Description of folder content ./experiments
+# Description of folder content `./experiments`
 
-The ./experiments folder contains the raw data collected during our experiments.
+The `./experiments` folder contains the raw data collected during our experiments.
 For each base instance $F$ there is a seperate .csv-file containing the flips and runtime used to solve the modified instances based on $F$, together with the seed used.
 The visual and statistical analysis of these files is provided in the ./evaluation folder.
 
 ## Folder Structure and Short Description
 
-The ./experiments folder contains the following subfolders.
+The `./experiments` folder contains the following subfolders.
 Each folder corresponds to a different experimental question under consideration (see short description).
 
-* ./csvs_coloring
+* `./csvs_coloring`
 	Contains all csv-files for the 3-coloring instances.
-* ./csvs_different_chances
+* `./csvs_different_chances`
 	Contains all csv-files to make sure that different chance parameters p_i have no influence on the results (see paper).
-* ./csvs_factoring
+* `./csvs_factoring`
 	Contains all csv-files for the factoring instances.
-* ./csvs_hidden_solution
+* `./csvs_hidden_solution`
 	Contains all csv-files for the hidden solutions.
-* ./csvs_hidden_solution
+* `./csvs_hidden_solution`
 	Contains all csv-files for the probSAT trials.
-* ./csvs_uniform
+* `./csvs_uniform`
 	Contains all csv-files for the uniformly random instances.
-* ./csvs_YAL
+* `./csvs_YAL
 	Contains all csv-files for the results obtained with the YalSAT solver.
 
 Each respective folder might contain `n*` folders indicating the number of variables of the instances.
