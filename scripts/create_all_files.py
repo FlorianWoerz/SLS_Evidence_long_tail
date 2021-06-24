@@ -1,5 +1,5 @@
-__author__ = 'Anony Mous and In Cognito'
-__copyright__ = 'Copyright (c) 2020'
+__author__ = 'Florian Wörz and Jan-Hendrik Lorenz'
+__copyright__ = 'Copyright (c) 2021'
 __version__ = '1.0'
 __status__ = 'Prototype'
 __description__ = 'Creates all instances, resolvents, and modified instances as explained in the paper [LW20b]'
