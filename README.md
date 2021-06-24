@@ -23,7 +23,6 @@ Furthermore, all important folders contain a description file which gives more d
 * `./scripts.tar.xz`
 
 	Contains scripts used for data clean-up of the original collected data and for generating the instances.
-	Use `$ tar -xf scripts.tar.xz` to decompress.
 	
 
 ## Authors
