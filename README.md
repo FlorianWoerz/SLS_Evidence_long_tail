@@ -1,6 +1,6 @@
 # Supplementary data of "Evidence for Long-Tails in SLS Algorithms"
 
-This repository contains all data produced for the empirical evaluations of the paper "Evidence for Long-Tails in SLS Algorithms" of Anonymous Authors.
+This repository contains all data produced for the empirical evaluations of the paper "Evidence for Long-Tails in SLS Algorithms" of Florian Wörz and Jan-Hendrik Lorenz.
 The instances used to obtain this data can be found in the Zenodo repository specified in the paper: https://doi.org/10.5281/zenodo.4715893.
 
 ## General Folder Structure
@@ -28,11 +28,15 @@ Furthermore, all important folders contain a description file which gives more d
 
 ## Authors
 
-Anonymous Authors
+Florian Wörz, Universität Ulm, Institut für Theoretische Informatik, Ulm, Germany
+
+Jan-Hendrik Lorenz, Universität Ulm, Institut für Theoretische Informatik, Ulm, Germany
 
 ## Acknowledgments
 
-Anonymous Acknowledgments
+The authors acknowledge support by the state of Baden-Württemberg through bwHPC.
+
+Florian Wörz was supported by the Deutsche Forschungsgemeinschaft (DFG) under project number 430150230, "Complexity measures for solving propositional formulas".
 
 ## License
 
